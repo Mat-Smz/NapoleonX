@@ -1,0 +1,17 @@
+{
+  "name": "napoleonX",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mat-Smz/NapoleonX.git",
+  "author": "Mat-Smz <59562144+Mat-Smz@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "node": "^16.9.1",
+    "nodemailer": "^6.6.3"
+  }
+}
